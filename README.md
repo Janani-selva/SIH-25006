@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:26-11-2025
+## Reference Number:212224230103
+## Name:JANANI S
 ## Problem Title
 SIH 25006: Development of a Digital Farm Management Portal for implementing Biosecurity measures in Pig and Poultry Farms
 ## Problem Description
@@ -41,27 +41,45 @@ Ministry of Fisheries, Animal Husbandry & Dairying
 Department of Animal Husbandry & Dairying (DoAH&D)
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+We propose to develop a user-friendly system to solve the given problem effectively.
+The solution will be built as a (web app / mobile app / AI model / IoT system) depending on the requirement.
+It will include essential features such as data collection, processing, analysis, and real-time output.
+The system will use modern technologies like AI/ML, cloud computing, databases, APIs, and automation tools.
+Our approach will ensure accuracy, faster processing, and reduced manual effort.
+The workflow will be simple, starting from input collection → processing → output generation.
+The solution is designed to be scalable, so it can handle more users or data in the future.
+It provides a secure and reliable architecture with proper authentication and data protection.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+We will use a modular architecture so each part of the system can be developed and tested independently.
+The frontend will be built using HTML, CSS, JavaScript / React / Flutter for a smooth user interface.
+The backend will use Node.js / Python / Java to handle data processing and server operations.
+A database such as MySQL / MongoDB / Firebase will be used to store user data securely.
+We will integrate APIs for communication between frontend and backend.
+If needed, we will apply AI/ML algorithms to analyze data and generate predictions or insights.
+We will follow a step-by-step development process:
+Requirements → Design → Implementation → Testing → Deployment.
+The system will use secure authentication (JWT, OAuth, etc.) to protect user data.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+The solution is technically feasible using currently available tools and technologies.
+Our team has the required skills (programming, AI, UI/UX, hardware, etc.) to develop the solution.
+The project can be completed within the SIH timeline.
+Required resources such as laptops, software, and internet are easily available.
+The solution is cost-effective and does not require expensive hardware.
+It can be easily adopted by the users or the organization.
+The solution is scalable and can grow with more users or data.
+Regular maintenance is simple and low-cost.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+The solution will significantly improve efficiency in the existing system.
+It reduces manual work and saves time for users or the organization.
+It increases accuracy and reduces errors in the process.
+The system brings digital transformation to the current workflow.
+It makes operations smoother, faster, and more transparent.
+The solution can positively impact a large number of people/users.
+It supports scalability and modernization in the future.
+It helps decision-makers with better data, insights, or automation.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+https://www.driems.ac.in/wp-content/uploads/2025/09/Smart-India-Hackathon_PROBLEM-STATEMENTS
